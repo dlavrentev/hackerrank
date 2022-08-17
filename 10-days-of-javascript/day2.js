@@ -41,3 +41,5 @@ function getLetter(s) {
 }
     return letter;
 }
+
+// Day 2: Loops 
