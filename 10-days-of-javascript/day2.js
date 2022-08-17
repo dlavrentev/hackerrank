@@ -18,3 +18,7 @@ function getGrade(score) {
     }
     return grade;
 }
+
+
+// Day 2: Condition Statements: Switch
+
