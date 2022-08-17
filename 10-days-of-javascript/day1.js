@@ -56,3 +56,8 @@ function factorial(n) {
   }
   return n; //120
 }
+
+
+// Day 1: Let and Const 
+
+
