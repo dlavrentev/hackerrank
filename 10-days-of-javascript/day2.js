@@ -62,3 +62,6 @@ function vowelsAndConsonants(s) {
     
     
 }
+
+// Day 3: Arrays
+
